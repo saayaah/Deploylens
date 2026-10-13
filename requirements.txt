@@ -1,0 +1,2 @@
+# DeployLens's backend currently uses only the Python standard library.
+# No third-party packages are required to run it or its tests.
